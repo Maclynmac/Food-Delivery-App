@@ -1,5 +1,20 @@
 Food Delivery App
 
+Features:
+
+Add to cart functionality
+Shopping cart functionality
+Product Filtering functionality
+Product page
+Cart and checkout page
+Awesome modern minimalist UI
+
+Technologies Used:
+React.js
+Redux Toolkit
+ReactStrap
+CSS
+
 Output
 
 ![IMG_20230826_220235](https://github.com/Maclynmac/Food-Delivery-App/assets/118000127/f70e372b-6d22-4821-95f4-ce5d2c627bae)
