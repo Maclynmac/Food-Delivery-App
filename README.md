@@ -3,8 +3,11 @@ Food Delivery App
 Features:
 
 Add to cart functionality
+
 Shopping cart functionality
+
 Product Filtering functionality
+
 Product page
 Cart and checkout page
 Awesome modern minimalist UI
