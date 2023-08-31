@@ -9,13 +9,17 @@ Shopping cart functionality
 Product Filtering functionality
 
 Product page
+
 Cart and checkout page
+
 Awesome modern minimalist UI
 
 Technologies Used:
+
 React.js
+
 Redux Toolkit
-ReactStrap
+
 CSS
 
 Output
