@@ -1,6 +1,6 @@
 <strong>Food Delivery App</strong>
 
-<strong>Features:<strong>
+<strong>Features:</strong>
 
 <ul>
   
