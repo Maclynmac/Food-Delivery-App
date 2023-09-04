@@ -1,26 +1,34 @@
-Food Delivery App
+<strong>Food Delivery App</strong>
 
-Features:
+<strong>Features:<strong>
 
-Add to cart functionality
+<ul>
+  
+<li>Add to cart functionality</li>
 
-Shopping cart functionality
+<li>Shopping cart functionality</li>
 
-Product Filtering functionality
+<li>Product Filtering functionality</li>
 
-Product page
+<li>Product page</li>
 
-Cart and checkout page
+<li>Cart and checkout page</li>
 
-Awesome modern minimalist UI
+<li>Awesome modern minimalist UI</li>
 
-Technologies Used:
+</ul>
 
-React.js
+<strong>Technologies Used:</strong>
 
-Redux Toolkit
+<ul>
+  
+<li>React.js</li>
 
-CSS
+<li>Redux Toolkit</li>
+
+<li>CSS</li>
+
+</ul>
 
 Output
 
